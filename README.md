@@ -20,7 +20,7 @@
   <img height=160em src="https://github-readme-streak-stats-salesp07.vercel.app/?user=mkyALAN&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img height=160em src="https://github-readme-stats-salesp07.vercel.app/api?username=mkyALAN&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mkyALAN&hide=&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=mkyALAN&=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <hr/>
