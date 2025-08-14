@@ -11,7 +11,7 @@
 <hr/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=javascript,angular,html,css,bootstrap,vscode,github,git,nodejs,python,django"/>
+    <img src="https://skillicons.dev/icons?i=javascript,react,html,css,bootstrap,vscode,github,git,nodejs,python,django"/>
 </div>
 
 <hr/>
